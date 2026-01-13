@@ -1,0 +1,7 @@
+mediapipe==0.10.14
+opencv-python==4.11.0.86
+numpy==1.26.4
+scikit-learn==1.5.2
+pillow==10.4.0
+tkinterweb==3.24.6
+protobuf==4.25.3
